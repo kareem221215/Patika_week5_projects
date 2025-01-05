@@ -68,9 +68,11 @@ Welcome to the repository for the projects completed in **Week 5** of the bootca
 * and why to use this project.
 -->
 In this week, we focused on the following key areas:
-- Object-oriented programming (OOP) concepts
-- Class creation and usage
-- Understanding constructors, methods, and properties
+
+Array and list manipulation techniques
+Handling user input dynamically
+Implementing exception handling with try-catch
+Applying object-oriented programming concepts to real-world scenarios
 
 <!--## Demo<!-- Required -->
 <!-- 
