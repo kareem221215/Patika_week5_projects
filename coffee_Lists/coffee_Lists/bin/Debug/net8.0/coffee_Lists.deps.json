@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "coffee_Lists/1.0.0": {
+        "runtime": {
+          "coffee_Lists.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "coffee_Lists/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

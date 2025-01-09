@@ -1,0 +1,15 @@
+C:\Users\LENOVO\source\repos\coffee_Lists\coffee_Lists\bin\Debug\net8.0\coffee_Lists.exe
+C:\Users\LENOVO\source\repos\coffee_Lists\coffee_Lists\bin\Debug\net8.0\coffee_Lists.deps.json
+C:\Users\LENOVO\source\repos\coffee_Lists\coffee_Lists\bin\Debug\net8.0\coffee_Lists.runtimeconfig.json
+C:\Users\LENOVO\source\repos\coffee_Lists\coffee_Lists\bin\Debug\net8.0\coffee_Lists.dll
+C:\Users\LENOVO\source\repos\coffee_Lists\coffee_Lists\bin\Debug\net8.0\coffee_Lists.pdb
+C:\Users\LENOVO\source\repos\coffee_Lists\coffee_Lists\obj\Debug\net8.0\coffee_Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\coffee_Lists\coffee_Lists\obj\Debug\net8.0\coffee_Lists.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\coffee_Lists\coffee_Lists\obj\Debug\net8.0\coffee_Lists.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\coffee_Lists\coffee_Lists\obj\Debug\net8.0\coffee_Lists.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\coffee_Lists\coffee_Lists\obj\Debug\net8.0\coffee_Lists.sourcelink.json
+C:\Users\LENOVO\source\repos\coffee_Lists\coffee_Lists\obj\Debug\net8.0\coffee_Lists.dll
+C:\Users\LENOVO\source\repos\coffee_Lists\coffee_Lists\obj\Debug\net8.0\refint\coffee_Lists.dll
+C:\Users\LENOVO\source\repos\coffee_Lists\coffee_Lists\obj\Debug\net8.0\coffee_Lists.pdb
+C:\Users\LENOVO\source\repos\coffee_Lists\coffee_Lists\obj\Debug\net8.0\coffee_Lists.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\coffee_Lists\coffee_Lists\obj\Debug\net8.0\ref\coffee_Lists.dll
