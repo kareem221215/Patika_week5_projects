@@ -1,0 +1,7 @@
+C:\Users\LENOVO\source\repos\IMDB\IMDB\bin\Debug\IMDB.exe.config
+C:\Users\LENOVO\source\repos\IMDB\IMDB\bin\Debug\IMDB.exe
+C:\Users\LENOVO\source\repos\IMDB\IMDB\bin\Debug\IMDB.pdb
+C:\Users\LENOVO\source\repos\IMDB\IMDB\obj\Debug\IMDB.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\IMDB\IMDB\obj\Debug\IMDB.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\IMDB\IMDB\obj\Debug\IMDB.exe
+C:\Users\LENOVO\source\repos\IMDB\IMDB\obj\Debug\IMDB.pdb
