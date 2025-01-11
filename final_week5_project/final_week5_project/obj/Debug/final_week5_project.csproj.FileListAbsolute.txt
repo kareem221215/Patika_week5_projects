@@ -1,0 +1,2 @@
+C:\Users\LENOVO\source\repos\final_week5_project\final_week5_project\obj\Debug\final_week5_project.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\final_week5_project\final_week5_project\obj\Debug\final_week5_project.csproj.CoreCompileInputs.cache
