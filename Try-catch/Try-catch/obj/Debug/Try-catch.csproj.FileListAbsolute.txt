@@ -1,0 +1,7 @@
+C:\Users\LENOVO\source\repos\Try-catch\Try-catch\bin\Debug\Try-catch.exe.config
+C:\Users\LENOVO\source\repos\Try-catch\Try-catch\bin\Debug\Try-catch.exe
+C:\Users\LENOVO\source\repos\Try-catch\Try-catch\bin\Debug\Try-catch.pdb
+C:\Users\LENOVO\source\repos\Try-catch\Try-catch\obj\Debug\Try-catch.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Try-catch\Try-catch\obj\Debug\Try-catch.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Try-catch\Try-catch\obj\Debug\Try-catch.exe
+C:\Users\LENOVO\source\repos\Try-catch\Try-catch\obj\Debug\Try-catch.pdb
